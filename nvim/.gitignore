@@ -1,0 +1,11 @@
+*.swp
+.DS_Store
+lazy-lock.json
+view/
+plugged/
+sessions/
+autoload/
+tmp/
+swapfiles/
+.netrwhist
+.vim-bookmarks
